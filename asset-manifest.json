@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tutor_web/static/css/main.313c1af4.css",
-    "main.js": "/tutor_web/static/js/main.e45b2183.js",
+    "main.css": "/tutor_web/static/css/main.0a45e959.css",
+    "main.js": "/tutor_web/static/js/main.f7b46a16.js",
     "static/media/stu1.png": "/tutor_web/static/media/stu1.71d6dc81d0acdcd4768f.png",
     "static/media/stu2.jpg": "/tutor_web/static/media/stu2.05c7c276568e04deeace.jpg",
     "index.html": "/tutor_web/index.html",
-    "main.313c1af4.css.map": "/tutor_web/static/css/main.313c1af4.css.map",
-    "main.e45b2183.js.map": "/tutor_web/static/js/main.e45b2183.js.map"
+    "main.0a45e959.css.map": "/tutor_web/static/css/main.0a45e959.css.map",
+    "main.f7b46a16.js.map": "/tutor_web/static/js/main.f7b46a16.js.map"
   },
   "entrypoints": [
-    "static/css/main.313c1af4.css",
-    "static/js/main.e45b2183.js"
+    "static/css/main.0a45e959.css",
+    "static/js/main.f7b46a16.js"
   ]
 }
