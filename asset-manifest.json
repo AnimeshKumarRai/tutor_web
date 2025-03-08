@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tutor_web/static/css/main.06458c66.css",
-    "main.js": "/tutor_web/static/js/main.dbf25bbb.js",
-    "static/media/stu5.png": "/tutor_web/static/media/stu5.186d6d1236847db05675.png",
-    "static/media/stu2.jpg": "/tutor_web/static/media/stu2.05c7c276568e04deeace.jpg",
+    "main.css": "/tutor_web/static/css/main.f52296fa.css",
+    "main.js": "/tutor_web/static/js/main.d9fd7b93.js",
+    "static/media/pic3.jpg": "/tutor_web/static/media/pic3.3ef325099b7993a68a3f.jpg",
+    "static/media/pic1.webp": "/tutor_web/static/media/pic1.7f5d254fe31d45445635.webp",
     "index.html": "/tutor_web/index.html",
-    "main.06458c66.css.map": "/tutor_web/static/css/main.06458c66.css.map",
-    "main.dbf25bbb.js.map": "/tutor_web/static/js/main.dbf25bbb.js.map"
+    "main.f52296fa.css.map": "/tutor_web/static/css/main.f52296fa.css.map",
+    "main.d9fd7b93.js.map": "/tutor_web/static/js/main.d9fd7b93.js.map"
   },
   "entrypoints": [
-    "static/css/main.06458c66.css",
-    "static/js/main.dbf25bbb.js"
+    "static/css/main.f52296fa.css",
+    "static/js/main.d9fd7b93.js"
   ]
 }
