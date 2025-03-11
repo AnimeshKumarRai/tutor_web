@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/tutor_web/static/css/main.f52296fa.css",
-    "main.js": "/tutor_web/static/js/main.d9fd7b93.js",
-    "static/media/pic3.jpg": "/tutor_web/static/media/pic3.3ef325099b7993a68a3f.jpg",
-    "static/media/pic1.webp": "/tutor_web/static/media/pic1.7f5d254fe31d45445635.webp",
+    "main.css": "/tutor_web/static/css/main.071c1e55.css",
+    "main.js": "/tutor_web/static/js/main.46840a67.js",
+    "static/media/pic4.jpg": "/tutor_web/static/media/pic4.d54f845de0031160b941.jpg",
+    "static/media/pic6.jpg": "/tutor_web/static/media/pic6.9c1399ec614177b75952.jpg",
+    "static/media/logo2.png": "/tutor_web/static/media/logo2.19a25d139c21a4d34246.png",
+    "static/media/slick.svg": "/tutor_web/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/tutor_web/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/tutor_web/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/tutor_web/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/tutor_web/index.html",
-    "main.f52296fa.css.map": "/tutor_web/static/css/main.f52296fa.css.map",
-    "main.d9fd7b93.js.map": "/tutor_web/static/js/main.d9fd7b93.js.map"
+    "main.071c1e55.css.map": "/tutor_web/static/css/main.071c1e55.css.map",
+    "main.46840a67.js.map": "/tutor_web/static/js/main.46840a67.js.map"
   },
   "entrypoints": [
-    "static/css/main.f52296fa.css",
-    "static/js/main.d9fd7b93.js"
+    "static/css/main.071c1e55.css",
+    "static/js/main.46840a67.js"
   ]
 }
