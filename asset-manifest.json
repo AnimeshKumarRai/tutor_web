@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dae14565.css",
-    "main.js": "/static/js/main.718648e7.js",
+    "main.js": "/static/js/main.bd1e2f21.js",
     "static/media/telephone_2.png": "/static/media/telephone_2.e5028d8d93c442a329a0.png",
     "static/media/telephone.png": "/static/media/telephone.874ec082b6fbda84c9f8.png",
     "static/media/pic4.jpg": "/static/media/pic4.d54f845de0031160b941.jpg",
@@ -14,10 +14,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.dae14565.css.map": "/static/css/main.dae14565.css.map",
-    "main.718648e7.js.map": "/static/js/main.718648e7.js.map"
+    "main.bd1e2f21.js.map": "/static/js/main.bd1e2f21.js.map"
   },
   "entrypoints": [
     "static/css/main.dae14565.css",
-    "static/js/main.718648e7.js"
+    "static/js/main.bd1e2f21.js"
   ]
 }
